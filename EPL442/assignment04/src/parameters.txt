@@ -1,0 +1,9 @@
+numHiddenLayerNeurons=15
+numInputNeurons=53
+numOutputNeurons=1
+learningRates=0.01
+sigmas=0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+maxIterations=200
+centresFile=centerVectors.txt
+trainFile=training.txt
+testFile=test.txt
